@@ -1,0 +1,44 @@
+{
+    "response" :
+        {
+          "espotId": "HomePage_Main",
+          "pages" : [
+              {
+                  "jsonContent" : "",
+                  "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n This is frag1 \n</div>",
+                  "seq": 1,
+                  "metadata" : {
+                    "activationDate" : "01/01/2021",
+                    "deActivationDate" : "03/01/2021"
+                  }
+              },
+              {
+                  "jsonContent" : "",
+                  "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n This is frag2 \n</div>",
+                  "seq": 2,
+                  "metadata" : {
+                    "activationDate" : "04/01/2021",
+                    "deActivationDate" : "06/01/2021"
+                  }
+              },
+              {
+                  "jsonContent" : "",
+                  "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n This is frag3 \n</div>",
+                  "seq": 3,
+                  "metadata" : {
+                    "activationDate" : "07/01/2021",
+                    "deActivationDate" : "09/01/2021"
+                  }
+              },
+              {
+                  "jsonContent" : "",
+                  "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n This is frag4 \n</div>",
+                  "seq": 4,
+                  "metadata" : {
+                    "activationDate" : "10/01/2021",
+                    "deActivationDate" : "12/01/2021"
+                  }
+              }
+          ]
+      }
+  }
