@@ -3,16 +3,22 @@ const app = express();
 const port = 3010;
 const fs = require('fs');
 
-app.get('/api/cms/bin/content/v3', (req, res) => {
+app.get('/api/cms/bin/content/:version', (req, res) => {
+
   let jsonObj;
-  let id = req.query.pageId || req.query.espotId;
-  console.log(`${new Date().toLocaleString()} :Serving v3 content for id ${id}!`);
+  const version = req.params.version;
+  const locale = req.query.locale;
+  const id = req.query.pageId || req.query.espotId;
+  const path = `content/${version}/${locale}/${id}.json`;
+  const fallbackPath = `content/${version}/${locale}/default.json`;
+  console.log(`${new Date().toLocaleString()} :Serving ${path}!`);
+
   try {
-    jsonObj = fs.readFileSync(`content/${id}.json`);
+    jsonObj = fs.readFileSync(path);
   } catch (err) {
-    jsonObj = fs.readFileSync('content/default.json');
+    jsonObj = fs.readFileSync(fallbackPath);
   }
-    
+
   let content = JSON.parse(jsonObj);
   res.send(content);
 });
