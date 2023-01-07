@@ -1,0 +1,74 @@
+{
+  "response": [
+    {
+      "espotId": "12202-nav-container-left-large-screen",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12202-nav-container-left-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12202-cat-column-featured-top",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12202-cat-column-featured-top \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12202-cat-column-clearance-top",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12202-cat-column-clearance-top \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12202-nav-container-bottom-large-screen",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12202-nav-container-bottom-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12202-nav-container-right-large-screen",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12202-nav-container-right-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+version: '3'
+services:
+    simulator:
+        container_name: simulator
+        image: node:lts-slim
+        working_dir: /usr/local/src/simulator
+        volumes:
+            - .:/usr/local/src/simulator
+        ports:
+            - "3010:3010"
+        environment:
+            - NODE_ENV=development
+        command: ["bash", "-c", "npm install && node_modules/.bin/nodemon server"]
