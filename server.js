@@ -15,12 +15,13 @@ app.get('/api/cms/bin/content/:version', (req, res) => {
 
   try {
     jsonObj = fs.readFileSync(path);
+    let content = JSON.parse(jsonObj);
+    res.send(content);
   } catch (err) {
-    jsonObj = fs.readFileSync(fallbackPath);
+    res.send("");
   }
 
-  let content = JSON.parse(jsonObj);
-  res.send(content);
+
 });
 
 app.listen(port, () => {
