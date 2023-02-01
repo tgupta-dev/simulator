@@ -1,7 +1,7 @@
 {
   "response": [
     {
-      "espotId": "12202-nav-container-left-large-screen",
+      "espotId": "12202-ANF-nav-left-desktop",
       "pages": [
         {
           "jsonContent": "",
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "espotId": "12202-cat-column-featured-top",
+      "espotId": "12202-ANF-cat-column-featured-top",
       "pages": [
         {
           "jsonContent": "",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "espotId": "12202-cat-column-clearance-top",
+      "espotId": "12202-ANF-cat-column-clearance-top",
       "pages": [
         {
           "jsonContent": "",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "espotId": "12202-nav-container-bottom-large-screen",
+      "espotId": "12202-ANF-nav-bottom-desktop",
       "pages": [
         {
           "jsonContent": "",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "espotId": "12202-nav-container-right-large-screen",
+      "espotId": "12202-ANF-nav-right-desktop",
       "pages": [
         {
           "jsonContent": "",

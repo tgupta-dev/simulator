@@ -1,7 +1,7 @@
 {
   "response": [
     {
-      "espotId": "176705-nav-container-left-large-screen",
+      "espotId": "176705-ANF-nav-left-desktop",
       "pages": [
         {
           "jsonContent": "",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "espotId": "176705-nav-container-bottom-large-screen",
+      "espotId": "176705-ANF-nav-bottom-desktop",
       "pages": [
         {
           "jsonContent": "",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "espotId": "176705-nav-container-right-large-screen",
+      "espotId": "176705-ANF-nav-right-desktop",
       "pages": [
         {
           "jsonContent": "",
