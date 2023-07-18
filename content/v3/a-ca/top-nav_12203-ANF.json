@@ -1,0 +1,74 @@
+{
+  "response": [
+    {
+      "espotId": "12203-ANF-nav-left-desktop",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12203-nav-container-left-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12203-ANF-cat-column-featured-top",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12203-cat-column-featured-top \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12203-ANF-cat-column-clearance-top",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12203-cat-column-clearance-top \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12203-ANF-nav-bottom-desktop",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12203-nav-container-bottom-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "12203-ANF-nav-right-desktop",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 12203-nav-container-right-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    }
+  ]
+}

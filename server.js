@@ -16,7 +16,12 @@ app.get('/api/cms/bin/content/:version', (req, res) => {
   try {
     jsonObj = fs.readFileSync(path);
     let content = JSON.parse(jsonObj);
-    res.send(content);
+    if (id === 'HomePage_Main') {
+    setTimeout(() => {res.send(content)}, 100);
+    } else {
+        //res.set("Content-Type", "application/json;charset=utf-16");
+        res.send(content);
+    }
   } catch (err) {
     res.send("");
   }

@@ -1,0 +1,18 @@
+{
+    "response": [
+        {
+            "espotId": "GMSBanner-anf",
+            "pages": [
+                {
+                    "jsonContent": "",
+                    "htmlContent": "",
+                    "seq": 1,
+                    "metadata": {
+                        "activationDate": "01/01/2021",
+                        "deActivationDate": "03/01/2021"
+                    }
+                }
+            ]
+        }
+    ]
+}

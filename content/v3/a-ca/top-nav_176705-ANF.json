@@ -1,0 +1,60 @@
+{
+  "response": [
+    {
+      "espotId": "176705-ANF-nav-left-desktop",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 176705-nav-container-left-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "NAV_SPECIAL_INTERACTION_176705",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n NAV_SPECIAL_INTERACTION_176705 \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "176705-ANF-nav-bottom-desktop",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 176705-nav-container-bottom-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    },
+    {
+      "espotId": "176705-ANF-nav-right-desktop",
+      "pages": [
+        {
+          "jsonContent": "",
+          "htmlContent": "\n<div id=\"fragment_02beb78\" class=\"container scope-1892\"> \n 176705-nav-container-right-large-screen \n</div>",
+          "seq": 1,
+          "metadata": {
+            "activationDate": "01/01/2021",
+            "deActivationDate": "03/01/2025"
+          }
+        }
+      ]
+    }
+  ]
+}

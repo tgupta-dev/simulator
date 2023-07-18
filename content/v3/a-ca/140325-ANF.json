@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "espotId": "pdp_beforeaddtobag",
+            "pages": [
+                {
+                    "jsonContent": "",
+                    "seq": 4,
+                    "htmlContent": "<div id=\"fragment_df9466e\" class=\"container scope-1892  \"> \n <div class=\"root responsivegrid\"> \n  <div class=\"aem-Grid aem-Grid--12 aem-Grid--default--12 \"> \n   <div class=\"inline-styles aem-GridColumn aem-GridColumn--default--12\"> \n   </div> \n   <div class=\"component-headline aem-GridColumn aem-GridColumn--default--12\"> <span class=\"headline \" style=\"color:;\" data-brand=\"hol\">PDP testing for uc-1 before add to bag</span> \n   </div> \n  </div> \n </div> \n</div>",
+                    "kicIdList": [
+                        "ALL"
+                    ],
+                    "categoryIdList": [
+                        "88198-HOL"
+                    ]
+                }
+            ]
+        }
+    ]
+}
